@@ -1,0 +1,48 @@
+atletismo;100m rasos
+atletismo;200m rasos
+atletismo;400m rasos
+atletismo;800m rasos
+atletismo;1500m rasos
+atletismo;5000m rasos
+atletismo;1000m rasos
+atletismo;100m com barreira
+atletismo;110m com barreira
+atletismo;400m com barreira
+atletismo;3000m com obstaculos
+atletismo;maratona
+atletismo;salto em distancia
+atletismo;salto com vara
+natacao;50m livre
+natacao;100m livre
+natacao;200m livre
+natacao;400m livre
+natacao;1500m livre
+natacao;100m costas
+natacao;200m costas
+natacao;100m peito
+natacao;200m peito
+natacao;100m borboleta
+natacao;200m borboleta
+natacao;4x100m livre
+natacao;4x100m medley
+natacao;10k maratona
+vela;RS-X
+vela;laser
+vela;470
+vela;star
+vela;finn
+vela;laser radial
+vela;elliot 6m
+vela;49er
+boxe;super-pesado
+boxe;meio-pesado
+boxe;pesado
+boxe;medio
+boxe;meio-medio
+boxe;meio-medio-ligeiro
+boxe;leve
+boxe;galo
+boxe;mosca
+boxe;mosca-ligeiro
+futebol;maculino
+futebol;feminino
